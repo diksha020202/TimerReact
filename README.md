@@ -1,3 +1,7 @@
+A basic Timer using React. I used react hooks to form the functionality. 
+Deployed Link : https://cerulean-cheesecake-f24e13.netlify.app/
+This is the part of my assignment from Masai School. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
